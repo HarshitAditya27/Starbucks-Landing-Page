@@ -2,7 +2,7 @@
 
 Deployed Link: https://harshitaditya27.github.io/Starbucks-Landing-Page/
 
-<img src="https://github.com/HarshitAditya27/Pictures-for-Projects/blob/master/Screenshot%20(1592).png?raw=true">
+![Screenshot (1592)](https://user-images.githubusercontent.com/71604531/145547370-d69a7600-5dc9-4b51-9e6c-533f4f14a525.png)
 
 ## Introduction 🐱‍💻
 Created Starbucks Landing page using HTML and CSS.
@@ -38,10 +38,11 @@ cd Starbucks-Landing-Page
 Hurray 🥳, you successfully deployed the project in your local machine 🎉. 
   
   ## Screenshots 
-  <img src="https://github.com/HarshitAditya27/Pictures-for-Projects/blob/master/Screenshot%20(1593).png?raw=true"> 
-  <img src="https://github.com/HarshitAditya27/Pictures-for-Projects/blob/master/Screenshot%20(1594).png?raw=true"> 
-  <img src="https://github.com/HarshitAditya27/Pictures-for-Projects/blob/master/Screenshot%20(1595).png?raw=true"> 
-  
+  ![Screenshot (1593)](https://user-images.githubusercontent.com/71604531/145547027-349cff6a-0a34-4ff4-a85f-fba36b89376e.png)
+  ![Screenshot (1594)](https://user-images.githubusercontent.com/71604531/145546631-75704fc9-9e9c-42c7-ae80-693e0acd264c.png) 
+  ![Screenshot (1595)](https://user-images.githubusercontent.com/71604531/145547212-b306df61-9d0d-4f85-b856-1a411040662b.png)
+
+
   ## Loved the project 💖? 
   
   If you found the project intresting then please do give this project a star ⭐. 
